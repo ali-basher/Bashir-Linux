@@ -14,6 +14,13 @@ menu:
 
 ---
 
+{==
+
+Thank you for visiting my website. If you have any questions or feedback,
+please don't hesitate to contact me
+
+==}
+
 | Medium | Link |
 |---|---|
 | **`Telegram`** | [@intj_t2](https://t.me/intj_t2) |
