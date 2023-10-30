@@ -2,66 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/p/hello-world/</loc>
+    <loc>https://ali-basher.github.io/Bashir-Linux/p/my-first-post/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ali-basher.github.io/Bashir-Linux/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/categories/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/tags/css/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/tags/html/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/tags/markdown/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/p/markdown-syntax-guide/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/post/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/categories/syntax/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/tags/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/tags/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/categories/themes/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/p/image-gallery/</loc>
-    <lastmod>2023-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/p/shortcodes/</loc>
-    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/p/math-typesetting/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ali-basher.github.io/Bashir-Linux/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/categories/example-category/</loc>
+    <loc>https://ali-basher.github.io/Bashir-Linux/categories/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ali-basher.github.io/Bashir-Linux/tags/example-tag/</loc>
+    <loc>https://ali-basher.github.io/Bashir-Linux/categories/first-post-category/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ali-basher.github.io/Bashir-Linux/tags/first-post-tags/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ali-basher.github.io/Bashir-Linux/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ali-basher.github.io/Bashir-Linux/post/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ali-basher.github.io/Bashir-Linux/tags/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ali-basher.github.io/Bashir-Linux/about/</loc>
   </url><url>
     <loc>https://ali-basher.github.io/Bashir-Linux/contact/</loc>
+  </url><url>
+    <loc>https://ali-basher.github.io/Bashir-Linux/categories/example-category/</loc>
   </url><url>
     <loc>https://ali-basher.github.io/Bashir-Linux/search/</loc>
   </url>

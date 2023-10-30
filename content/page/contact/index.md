@@ -10,16 +10,11 @@ menu:
             icon: messages
 ---
 
+> Thank you for visiting my website. If you have any questions or comments, feel free to contact me, scroll down 👇🏻.
+
 ![About Me Image](contact.svg)
 
 ---
-
-{==
-
-Thank you for visiting my website. If you have any questions or feedback,
-please don't hesitate to contact me
-
-==}
 
 | Medium | Link |
 |---|---|
